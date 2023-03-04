@@ -2,6 +2,16 @@
 
 ----
 
+[Install an iOS app on a simulated device](https://help.apple.com/simulator/mac/11.0/#/deve2c6f33cc)
+<img width="1000" src="https://user-images.githubusercontent.com/70295997/222860333-d0c2c9ee-67d2-406d-9f38-98dd182c4267.png">
+
+----
+
+<img width="700" src="https://user-images.githubusercontent.com/70295997/222860574-9b5d75ab-3c14-4602-882b-251781c487ee.png">
+
+____
+
+
 There are several ways to install an app on an iOS device, including the following:
 1. Using the App Store: One of the most common ways to install an app on an iOS device is
 to use the App Store. To do this, open the App Store app on your device, search for the
